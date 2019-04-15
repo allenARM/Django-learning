@@ -1,4 +1,4 @@
 # Django-learning
 This is repository where I am learning Django and web development
 
-Last watched lesson 03-022
+Last watched lesson 06-032
