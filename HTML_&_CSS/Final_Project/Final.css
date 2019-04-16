@@ -1,0 +1,45 @@
+body{
+  background-color: #011627;
+  border: 60px solid #2EC4B6;
+  border-top: 0px;
+  margin: 0px;
+}
+
+div{
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-size: 2em;
+}
+
+p{
+  color: #ffffff;
+  font-size: 80%;
+}
+
+h1{
+  color: #ffffff;
+}
+
+h2{
+  color: #ffffff;
+  padding-bottom: 10%;
+}
+
+label{
+  color: #ffffff;
+}
+
+input{
+  width: 20em;
+  height: 2.5em;
+}
+
+#Sumbit{
+  border-radius: 25px;
+  background-color: orange;
+  height: 2em;
+  width: 6em;
+  font-size: 1em;
+  margin: 10px;
+}
