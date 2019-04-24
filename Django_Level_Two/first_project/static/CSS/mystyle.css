@@ -1,0 +1,12 @@
+h1{
+	color: red;
+}
+
+img{
+	width: 250px;
+	height: 250px;
+}
+
+.djangtwo, table, td, th{
+	border: 2px solid black
+}
