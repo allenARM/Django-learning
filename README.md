@@ -2,4 +2,4 @@
 # Django-learning
 In this is repository I am learning Django and web development
 
-Last watched lesson 20-146
+Last watched lesson 21-154
